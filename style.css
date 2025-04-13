@@ -59,7 +59,7 @@ body {
 .sidebar #btn {
   position: absolute;
   color: #551616;
-  top: 84px;
+  top: 30px;
   left: 50%;
   font-size: 1.2rem;
   line-height: 50%;
@@ -68,7 +68,8 @@ body {
 }
 
 .sidebar.active #btn {
-  left: 90%;
+  left: 64px;
+  top: 12px;
 }
 
 .sidebar .top .logo {
